@@ -1,0 +1,9 @@
+Lux = 50 x fnumber2/ (exposure time in seconds x ISO film speed)
+
+iso film speed = ukjent
+
+focal length = 3.67mm
+diameter of entrance pupil=8mm
+fnumber = 0.45
+
+(50*0.210)/(timeused*0.14 )
